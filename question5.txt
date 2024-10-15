@@ -1,0 +1,4 @@
+Ligaria o primeiro interruptor e esperaria 15 minutos, após isso desligaria e ligaria o segundo interruptor, iria até a sala e verificaria a lampanda.
+Se a lampada estiver ligada é o segundo;
+Se a lampada estiver desligada e fria é o terceiro;
+Se a lampada estiver desligada e quente é o primeiro;
